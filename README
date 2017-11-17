@@ -1,0 +1,6 @@
+To create a rule on a source file, simply create a file with the same name as the source file, 
+and then place the content of the rule in the rule file.
+
+If a pull request has changed a source file associated with a rule,
+roborivers will post the rule to the pull request, for instance,
+https://github.com/bloomberg/comdb2/pull/541#pullrequestreview-77559278
