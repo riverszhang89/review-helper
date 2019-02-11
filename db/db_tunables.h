@@ -1,1 +1,1 @@
-Please update https://bloomberg.github.io/comdb2/config_files.html accordingly.
+Please update the tunable documentation (docs/pages/config/config_files.md) accordingly.
